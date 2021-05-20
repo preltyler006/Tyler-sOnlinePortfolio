@@ -113,6 +113,15 @@ h4 {
   max-width: 30%;
 }
 
+.Resume_Pictures {
+  display: block;
+  width: 85%;
+  height: 80%;
+  border: 2px white solid;
+  margin: auto;
+  max-width: 100%;
+}
+
 .basic_project_info {
   text-align: left;
 }
@@ -135,7 +144,7 @@ a {
   }
 
   .tabcontent p {
-    font-size: 75%;
+    font-size: 85%;
   }
 
   .tabcontent h3 {
@@ -153,7 +162,7 @@ a {
 
 @media only screen and (max-width: 560px) {
   .tab button {
-    font-size: 75%;
+    font-size: 55%;
   }
 
   h1 {
@@ -161,7 +170,7 @@ a {
   }
 
   h4 {
-    font-size: 70%;
+    font-size: 80%;
   }
 
   .tabcontent p {
@@ -172,3 +181,8 @@ a {
     font-size: 95%;
   }
 }
+
+@media only screen and (max-width: 400px) {
+  .tab button {
+    font-size: 40%;
+  }
