@@ -2,6 +2,7 @@
   padding: 0px;
   margin: 0%;
   font-family: Georgia, 'Times New Roman', Times, serif;
+  line-height: 1.25;
 }
 
 body {
@@ -91,24 +92,24 @@ h4 {
   text-align: center;
 }
 
-div img {
+.Professional_Tyler {
   width: 30%;
   border: 2px white solid;
   margin: 2px;
   max-width: 30%;
 }
 
-div2 img {
-  width: 30%;
+.Project_1_Pictures {
+  width: 20%;
   border: 2px white solid;
-  margin: 6px;
+  margin: 2px;
   max-width: 30%;
 }
 
-div3 img {
-  width: 30%;
+.Project_2_Pictures {
+  width: 100%;
   border: 2px white solid;
-  margin: 6px;
+  margin: 2px;
   max-width: 30%;
 }
 
