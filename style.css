@@ -110,6 +110,7 @@ h4 {
   width: 100%;
   border: 2px white solid;
   margin: 2px;
+  max-width: 500px;
 }
 
 .Resume_Pictures {
