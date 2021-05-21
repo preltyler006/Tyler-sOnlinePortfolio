@@ -103,23 +103,22 @@ h4 {
   width: 20%;
   border: 2px white solid;
   margin: 2px;
-  max-width: 30%;
+  max-width: 200px;
 }
 
 .Project_2_Pictures {
   width: 100%;
   border: 2px white solid;
   margin: 2px;
-  max-width: 30%;
 }
 
 .Resume_Pictures {
   display: block;
-  width: 85%;
+  width: 65%;
   height: 80%;
   border: 2px white solid;
   margin: auto;
-  max-width: 100%;
+  max-width: 700px;
 }
 
 .basic_project_info {
