@@ -99,6 +99,10 @@ h4 {
   max-width: 30%;
 }
 
+iframe {
+    text-align: center;
+}
+
 .Project_1_Pictures {
   width: 20%;
   border: 2px white solid;
