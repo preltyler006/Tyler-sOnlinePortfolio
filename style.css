@@ -32,7 +32,7 @@ body {
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-size: 150%;
+  font-size: 120%;
   width: 25%;
   color: white;
 }
@@ -136,7 +136,7 @@ a {
 
 @media only screen and (max-width: 800px) {
   .tab button {
-    font-size: 100%;
+    font-size: 80%;
   }
 
   h1 {
@@ -188,5 +188,5 @@ a {
 
 @media only screen and (max-width: 400px) {
   .tab button {
-    font-size: 40%;
+    font-size: 30%;
   }
