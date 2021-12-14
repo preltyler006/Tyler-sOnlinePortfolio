@@ -103,6 +103,20 @@ iframe {
     text-align: center;
 }
 
+.field_trips1 {
+    width: 50%;
+    border: 2px white solid;
+    margin: 2px;
+    max-width: 300px;
+}
+
+.speakers1 {
+  width: 20%;
+  border: 2px white solid;
+  margin: 2px;
+  max-width: 200px;
+}
+
 .Project_1_Pictures {
   width: 20%;
   border: 2px white solid;
@@ -189,4 +203,4 @@ a {
 @media only screen and (max-width: 400px) {
   .tab button {
     font-size: 30%;
-  }
+  }}
