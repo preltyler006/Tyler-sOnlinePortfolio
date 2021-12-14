@@ -131,6 +131,13 @@ iframe {
   max-width: 500px;
 }
 
+.Project_3_Pictures {
+  width: 100%;
+  border: 2px white solid;
+  margin: 2px;
+  max-width: 350px;
+}
+
 .Resume_Pictures {
   display: block;
   width: 65%;
