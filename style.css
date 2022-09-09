@@ -155,6 +155,7 @@ a {
   color: rgb(0, 81, 255);
 }
 
+
 @media only screen and (max-width: 800px) {
   .tab button {
     font-size: 80%;
